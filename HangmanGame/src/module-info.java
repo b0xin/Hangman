@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author boxin
+ *
+ */
+module HangmanGame {
+}
